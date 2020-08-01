@@ -25,7 +25,6 @@ const WorkoutSchema = new Schema({
         required: "Please enter a workout duration."
       },
       weight: {
-
         type : Number
       },
 
@@ -44,8 +43,6 @@ const WorkoutSchema = new Schema({
   ]
 
 });
-
-
 
 
 const Workout = mongoose.model("Workout", WorkoutSchema);
