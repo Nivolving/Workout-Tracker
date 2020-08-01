@@ -22,4 +22,4 @@ The user should be able to:
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
   
-##Link to heroku : https://stormy-coast-26963.herokuapp.com/stats
+## Link to heroku : https://stormy-coast-26963.herokuapp.com/stats
